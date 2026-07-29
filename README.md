@@ -201,13 +201,12 @@ I care about systems that hold up outside a demo — clear architecture, measura
 <div align="center">
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=padmanaban29072004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DFF7A&text_color=C9D1D9&icon_color=3DFF7A&ring_color=3DFF7A" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=padmanaban29072004&theme=dark&hide_border=true&background=0D1117&ring=3DFF7A&fire=3DFF7A&currStreakLabel=3DFF7A&sideLabels=C9D1D9&currStreakNum=3DFF7A&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=padmanaban29072004&theme=dark&hide_border=true&background=0D1117&ring=3DFF7A&fire=3DFF7A&currStreakLabel=3DFF7A&sideLabels=C9D1D9&currStreakNum=3DFF7A&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanaban29072004&layout=compact&hide_border=true&bg_color=0D1117&title_color=3DFF7A&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=padmanaban29072004&hide_border=true&bg_color=0D1117&title_color=3DFF7A&text_color=C9D1D9" alt="WakaTime"/>
 </div>
 
 ---
