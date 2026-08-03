@@ -191,7 +191,8 @@ I care about systems that hold up outside a demo — clear architecture, measura
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=padmanaban29072004&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=padmanaban29072004&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  alt="GitHub Trophies"/>
 </div>
 
 ---
