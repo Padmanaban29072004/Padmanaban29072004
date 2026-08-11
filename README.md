@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3DFF7A&background=0D111700&center=true&vCenter=true&multiline=true&width=720&height=60&lines=AI+%2F+ML+Engineer+%7C+Cybersecurity+Researcher;Computer+Vision+%C2%B7+Multi-Agent+Systems+%C2%B7+SIH+2025+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3DFF7A&background=0D111700&center=true&vCenter=true&multiline=true&width=720&height=60&lines=AI+%2F+ML+Engineer+%7C+Cybersecurity+Researcher;Multi-Agent+Systems+%C2%B7+Computer+Vision+%C2%B7+SOC+Automation;SIH+Winner+%2724+%26+%2725+%C2%B7+Bharatiya+Antariksh+Finalist)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,10 +49,10 @@
 
 ### 🏆 Recognition
 
-<img src="https://img.shields.io/badge/SIH%202025-Winner-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=trophy&logoColor=3DFF7A" alt="SIH 2025 Winner"/>
+<img src="https://img.shields.io/badge/SIH-Internal%20Winner%20'24%20%26%20'25-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=trophy&logoColor=3DFF7A" alt="SIH Winner"/>
 <img src="https://img.shields.io/badge/Bharatiya%20Antariksh%202025-Finalist-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=isro&logoColor=3DFF7A" alt="Bharatiya Antariksh Finalist"/>
 <img src="https://img.shields.io/badge/SOC%20Analyst%20101-Certified-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=3DFF7A" alt="SOC Analyst"/>
-<img src="https://img.shields.io/badge/ISSF%202026-Presenter-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=nasa&logoColor=3DFF7A" alt="ISSF 2026"/>
+<img src="https://img.shields.io/badge/ISSF%202026-Submission-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=nasa&logoColor=3DFF7A" alt="ISSF 2026"/>
 
 </div>
 
@@ -65,6 +65,7 @@ $ whoami
 > padmanaban_g
 > role     : AI/ML Engineer · Cybersecurity Researcher · Computer Vision Builder
 > focus    : Multi-agent systems · Lunar CV · Production SOC tooling
+> education: B.E. Computer Science & Business Systems, REC Chennai (2026)
 > location : Chennai, TN · open to Chennai · Bangalore · Hyderabad
 > status   : actively seeking AI/ML engineering roles
 ```
@@ -79,12 +80,13 @@ $ whoami
 
 I build **production-minded AI systems** at the intersection of multi-agent orchestration, computer vision, and cybersecurity.
 
-- 🛰️ Lunar surface analysis for ISRO research (Chandrayaan-2)
-- 🛡️ Real-time threat detection for SOC pipelines
-- 🏙️ Geospatial multi-agent systems for smart cities
-- 📈 Time-series ML that ships with measurable targets
+- 🛡️ Multi-agent SOC automation — LangGraph pipelines, graph-based threat modeling, adaptive response learning
+- 🛰️ Lunar surface analysis on Chandrayaan-2 imagery for space-tech research
+- 🏙️ Multi-agent smart mobility systems built in React Native
+- 🕵️ AI investigation tooling for structured crime-data analysis
+- 📈 Time-series ML that ships with measurable, tracked targets
 
-I care about systems that hold up outside a demo — clear architecture, measurable latency, and outcomes you can trust.
+I care about systems that hold up outside a demo — clear architecture, sound reasoning under uncertainty, and outcomes you can trust.
 
 <br clear="both"/>
 
@@ -97,20 +99,21 @@ I care about systems that hold up outside a demo — clear architecture, measura
     <td width="50%" align="center" valign="top">
       <img src="./assets/project-phantom.jpg" alt="PHANTOM-Flow" width="100%"/>
       <h3>🛡️ PHANTOM-Flow</h3>
-      <p><b>Multi-Agent Cybersecurity</b></p>
-      <p>Real-time network threat detection via orchestrated AI agents for production SOC pipelines.</p>
+      <p><b>Multi-Agent Cybersecurity SOC Platform</b></p>
+      <p>A 48-task phased build for L1/L2 SOC automation — LangGraph multi-agent pipelines, Neo4j graph correlation, Thompson Sampling adaptive response, and a SOAR playbook + payload-heuristics detection engine.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
         <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=graphql&logoColor=3DFF7A" alt="LangGraph"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
       </p>
-      <code>&lt; 3ms anomaly detection · Deployed</code>
+      <code>Attack pattern recognition (OTX RAG) · In active build</code>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="./assets/project-lunalens.jpg" alt="LunaLens" width="100%"/>
       <h3>🌕 LunaLens</h3>
       <p><b>Space Computer Vision</b></p>
-      <p>Crater &amp; boulder detection on lunar imagery for ISRO. Presented at ISSF 2026.</p>
+      <p>Crater &amp; boulder detection on Chandrayaan-2 lunar imagery, combining YOLOv8 with a Vision Transformer pipeline. Prepared for ISSF 2026 submission.</p>
       <p>
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8"/>
         <img src="https://img.shields.io/badge/ViT-FF6F00?style=flat-square&logo=pytorch&logoColor=white" alt="ViT"/>
@@ -123,26 +126,25 @@ I care about systems that hold up outside a demo — clear architecture, measura
     <td width="50%" align="center" valign="top">
       <img src="./assets/project-urbanflow.jpg" alt="UrbanFlow" width="100%"/>
       <h3>🏙️ UrbanFlow</h3>
-      <p><b>Smart City Platform</b></p>
-      <p>AI-powered traffic &amp; route optimization using geospatial multi-agent LLMs.</p>
+      <p><b>Smart City Mobility Platform</b></p>
+      <p>React Native mobility app exploring AI-driven traffic and route optimization through a multi-agent architecture.</p>
       <p>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
         <img src="https://img.shields.io/badge/Geospatial-2E7D32?style=flat-square&logo=openstreetmap&logoColor=white" alt="Geospatial"/>
         <img src="https://img.shields.io/badge/Multi--Agent-0D1117?style=flat-square&logo=openai&logoColor=3DFF7A" alt="Multi-Agent"/>
-        <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=huggingface&logoColor=white" alt="LLMs"/>
       </p>
       <code>Urban mobility · Active</code>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/project-aqi.jpg" alt="AQI Forecaster" width="100%"/>
-      <h3>🔍 AQI Forecaster</h3>
-      <p><b>Time Series ML</b></p>
-      <p>Air quality forecasting with lag features, rolling stats &amp; cyclic temporal encoding.</p>
+      <img src="./assets/project-crimematrix.jpg" alt="CrimeMatrix" width="100%"/>
+      <h3>🕵️ CrimeMatrix</h3>
+      <p><b>AI Investigation Copilot</b></p>
+      <p>Built for Datathon 2026 — an AI-assisted copilot for navigating and analyzing criminal database records.</p>
       <p>
-        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/AI%20Copilot-0D1117?style=flat-square&logo=openai&logoColor=3DFF7A" alt="AI Copilot"/>
       </p>
-      <code>MAE &lt; 65 · Complete</code>
+      <code>github.com/bhuwanb23/CrimeMatrix · Datathon 2026</code>
     </td>
   </tr>
 </table>
@@ -214,9 +216,7 @@ I care about systems that hold up outside a demo — clear architecture, measura
 ## 📈 Contribution Insights
 
 <div align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=padmanaban29072004&bg_color=0D1117&color=3DFF7A&line=3DFF7A&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%"/>
-
 </div>
 
 <br/>
@@ -253,17 +253,13 @@ I care about systems that hold up outside a demo — clear architecture, measura
 
 <div align="center">
 
-<!-- Instant snake (always available) -->
 <img src="https://icon.mzrdev.com/snk?username=padmanaban29072004&palette=github-dark&color_snake=3DFF7A" alt="Contribution snake" width="100%"/>
 
-<!-- After first Actions run, the animated GIF below will light up -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Padmanaban29072004/Padmanaban29072004/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Padmanaban29072004/Padmanaban29072004/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Padmanaban29072004/Padmanaban29072004/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-<img src="https://raw.githubusercontent.com/Padmanaban29072004/Padmanaban29072004/output/github-contribution-grid-snake.gif" alt="Snake gif" width="100%"/>
 
 </div>
 
@@ -275,10 +271,11 @@ I care about systems that hold up outside a demo — clear architecture, measura
 
 | Focus | Signal |
 |:------|:-------|
-| 🤖 Multi-Agent Systems | LangChain · LangGraph · Production orchestration |
+| 🤖 Multi-Agent Systems | LangChain · LangGraph · SOC pipeline orchestration |
 | 👁️ Computer Vision | YOLOv8 · ViT · Space / lunar imagery |
-| 🛡️ Cybersecurity | SOC pipelines · Anomaly detection · Offensive tooling |
-| 🌆 Smart Cities | Geospatial AI · Urban mobility optimization |
+| 🛡️ Cybersecurity | SOC automation · Threat detection · Offensive tooling |
+| 🌆 Smart Cities | React Native · Multi-agent route optimization |
+| 🕵️ Investigative AI | Structured data copilots · Datathon builds |
 | 📊 Applied ML | Time series · Forecasting · Feature engineering |
 
 </div>
