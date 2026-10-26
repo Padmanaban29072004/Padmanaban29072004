@@ -51,6 +51,7 @@
 
 <img src="https://img.shields.io/badge/SIH%202025-Winner-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=trophy&logoColor=3DFF7A" alt="SIH 2025 Winner"/>
 <img src="https://img.shields.io/badge/Bharatiya%20Antariksh%202025-Finalist-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=isro&logoColor=3DFF7A" alt="Bharatiya Antariksh Finalist"/>
+<img src="https://img.shields.io/badge/CEH-EC--Council%20Certified-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=hackthebox&logoColor=3DFF7A" alt="Certified Ethical Hacker - EC-Council"/>
 <img src="https://img.shields.io/badge/SOC%20Analyst%20101-Certified-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=3DFF7A" alt="SOC Analyst"/>
 <img src="https://img.shields.io/badge/ISSF%202026-Presenter-3DFF7A?style=for-the-badge&labelColor=0D1117&logo=nasa&logoColor=3DFF7A" alt="ISSF 2026"/>
 
@@ -65,6 +66,7 @@ $ whoami
 > padmanaban_g
 > role     : AI/ML Engineer · Cybersecurity Researcher · Computer Vision Builder
 > focus    : Multi-agent systems · Lunar CV · Production SOC tooling
+> certs    : Certified Ethical Hacker (EC-Council) · SOC Analyst 101
 > location : Chennai, TN · open to Chennai · Bangalore · Hyderabad
 > status   : actively seeking AI/ML engineering roles
 ```
@@ -81,6 +83,7 @@ I build **production-minded AI systems** at the intersection of multi-agent orch
 
 - 🛰️ Lunar surface analysis for ISRO research (Chandrayaan-2)
 - 🛡️ Real-time threat detection for SOC pipelines
+- 🔓 **EC-Council Certified Ethical Hacker (CEH)** — I think like an attacker so the systems I build hold up against one
 - 🏙️ Geospatial multi-agent systems for smart cities
 - 📈 Time-series ML that ships with measurable targets
 
@@ -166,7 +169,7 @@ I care about systems that hold up outside a demo — clear architecture, measura
   <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,nodejs,linux,git,github,vscode&theme=dark" alt="Frontend Automation"/>
 </p>
 
-### Security Arsenal
+### Security Arsenal · CEH Certified
 <p align="center">
   <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=kalilinux&logoColor=3DFF7A" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=3DFF7A" alt="Metasploit"/>
@@ -277,7 +280,7 @@ I care about systems that hold up outside a demo — clear architecture, measura
 |:------|:-------|
 | 🤖 Multi-Agent Systems | LangChain · LangGraph · Production orchestration |
 | 👁️ Computer Vision | YOLOv8 · ViT · Space / lunar imagery |
-| 🛡️ Cybersecurity | SOC pipelines · Anomaly detection · Offensive tooling |
+| 🛡️ Cybersecurity | CEH (EC-Council) · SOC pipelines · Anomaly detection · Offensive tooling |
 | 🌆 Smart Cities | Geospatial AI · Urban mobility optimization |
 | 📊 Applied ML | Time series · Forecasting · Feature engineering |
 
@@ -293,6 +296,7 @@ I care about systems that hold up outside a demo — clear architecture, measura
 > session  : authenticated
 > seeking  : AI/ML Engineering roles
 > prefer   : Chennai · Bangalore · Hyderabad
+> certs    : CEH (EC-Council) · SOC Analyst 101
 > contact  : padmanaban.govindarajalu@gmail.com
 > linkedin : linkedin.com/in/padmanaban2907
 > EOF
